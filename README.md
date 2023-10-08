@@ -36,5 +36,4 @@ I'm a full stack-oriented programmer with intermediate skill in at least 8 langu
 </table>
 <hr/>
 <p align="center"><a href="https://distrowatch.com"><img src="https://transistorcafe.net/~voltbun/buttons/xenia.gif" /></a><a href="https://www.gnu.org/software/emacs/"><img src="https://cyber.dabamos.de/88x31/emacs2.gif" /></a><a href="https://github.com/IShouldTestMyCode/hrt-cafe-archive"><img src="https://cyber.dabamos.de/88x31/femboy.gif" /></a><a href="https://github.com/Daniel-Liu-c0deb0t/uwu"><img src="https://cyber.dabamos.de/88x31/fursona.gif" /></a></p><br/>
-<p align="center"><a href="https://github.com/kurulen"><img src="https://www.jwz.org/compass2.gif" /></a></p><br/>
-<p align="center"><a href="https://war.ukraine.ua/donate"><img src="https://github.com/kurulen/kurulen/raw/main/uk_b.png" /></a></p>
+<p align="center"><a href="https://github.com/kurulen"><img src="https://www.jwz.org/compass2.gif" /></a></p>
