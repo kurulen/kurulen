@@ -4,7 +4,7 @@
 My name is Autumn Leaf. <sub>Mi nombre es Autumn Leaf.</sub><br/>
 <br/>
 I'm a full stack-oriented programmer with intermediate skill in at least 8 languages.<br/>
-<sub>Soy programador de pila completa con habilidad intermedia en al menos 8 idiomas.</sub>
+<sub>Soy programador de pila completa con habilidad intermedia en al menos 8 lenguajes de programacion.</sub>
 <hr/>
 <strong>About me</strong><br/><sub>Sobre mi</sub><br/>
 <hr/>
@@ -26,7 +26,7 @@ I'm a full stack-oriented programmer with intermediate skill in at least 8 langu
     </tr>
     <tr>
       <td align="center">I know Rust, Python, AutoHotKey, Lua, HTML, CSS, C, and JavaScript</td>
-      <td align="center">Se los siguientes idiomas:<br/>Rust, Python, AutoHotKey, Lua, HTML, CSS, C, y JavaScript</td>
+      <td align="center">Se los siguientes lenguajes:<br/>Rust, Python, AutoHotKey, Lua, HTML, CSS, C, y JavaScript</td>
     </tr>
     <tr>
       <td align="center">My pronouns are "she/they"</td>
