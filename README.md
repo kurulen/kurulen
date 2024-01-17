@@ -3,7 +3,6 @@
 My name is Autumn Leaf.<br/>
 <hr/>
 <strong>About me</strong><br/>
-<hr/>
 <table align="center">
   <tbody>
     <tr>
