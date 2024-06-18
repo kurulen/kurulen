@@ -9,7 +9,7 @@ My name is Autumn Leaf.<br/>
       <td align="center">I know Python, AutoHotKey, Lua, HTML, CSS, C, and JavaScript</td>
     </tr>
     <tr>
-      <td align="center">I'm *a transgender female*, and my pronouns are "she/they"</td>
+      <td align="center">I'm a transgender female, and my pronouns are "she/they"</td>
     </tr>
   </tbody>
 </table>
