@@ -1,6 +1,6 @@
 <hr/>
 <strong>Hello</strong><br/>
-My name is Autumn Leaf.<br/>
+My name is Autumn Everett.<br/>
 <hr/>
 <strong>About me</strong><br/>
 <table align="center">
