@@ -1,7 +1,4 @@
 <hr/>
-<strong>Hello</strong><br/>
-<hr/>
-<strong>About me</strong><br/>
 <table align="center">
   <tbody>
     <tr>
